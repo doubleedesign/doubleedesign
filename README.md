@@ -1,8 +1,8 @@
 ### 👋 I'm Leesa with a Double-E 
 
-🌐 I have a strong background in web development (from design and front-end, to full-stack more recently). 
+🌐 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I have a strong background in web development (from design and front-end, to full-stack more recently). 
 
-:notebook:  I’m currently working towards my Bachelor of Information Technology (Programming), 
+:notebook:  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I’m currently working towards my Bachelor of Information Technology (Programming), 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Bachelor of Design (Digital Technologies), and Diploma of Software Development.
 
