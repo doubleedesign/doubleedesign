@@ -6,9 +6,7 @@
 
 ---
 
-:notebook:  &nbsp;I’m currently working towards my Bachelor of Information Technology (Programming), 
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Bachelor of Design (Digital Technologies), and Diploma of Software Development.
+:notebook:  &nbsp;I’m currently working towards my Bachelor of Information Technology (Programming), <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Bachelor of Design (Digital Technologies), and Diploma of Software Development.
 
 🏫 I also teach web development and introductory programming.
 
