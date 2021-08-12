@@ -3,7 +3,8 @@
 🌐 I have a strong background in web development (from design and front-end, to full-stack more recently). 
 
 :notebook: I’m currently working towards my Bachelor of Information Technology (Programming), Bachelor of Design (Digital Technologies), and Diploma of Software Development.
-:computer: and working as a software engineering intern.
+
+:computer: I'm working as a software engineering intern, working with React.
 
 📂 I've organised my work into [projects](https://github.com/doubleedesign?tab=projects) so you can more easily find examples of my code relevant to you.
 
