@@ -2,7 +2,7 @@
 
 🌐 &nbsp;I have a strong background in web development, primarily front-end but enjoy dabbling in full-stack.
 
-:clock10: I worked in agency environments for around a decade, building custom CMS themes (first Drupal, then WordPress - so PHP, HTML, CSS/SCSS, vanilla JS, jQuery) and occasionally plugins.
+:clock10: I started my career in agency environments, building custom CMS themes (first Drupal, then WordPress - so PHP, HTML, CSS/SCSS, vanilla JS, jQuery) and occasionally plugins.
 
 :computer: I currently work as a front-end software engineer in an enterprise environment (working with JavaScript/TypeScript/React/Styled Components) while continuing to design and build custom WordPress sites on a freelance basis.
 
