@@ -7,7 +7,7 @@
 :computer: I currently work as a front-end software engineer in an enterprise environment (working with JavaScript/TypeScript/React/Styled Components) while continuing to design and build custom WordPress sites on a freelance basis.
 
 
-📂 I've organised my work into [projects](https://github.com/doubleedesign?tab=projects&type=classic) so you can more easily find examples of my code relevant to you. I also post WordPress customisation snippets, amongst others, as [gists](https://gist.github.com/doubleedesign).
+📂 I've organised my work into [projects](https://github.com/doubleedesign?tab=projects&type=classic) so you can more easily find examples of my code relevant to you. I also post WordPress customisation snippets, amongst other miscellaneous code things, as [gists](https://gist.github.com/doubleedesign).
 
 
 ---
