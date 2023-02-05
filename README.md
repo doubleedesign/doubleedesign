@@ -14,6 +14,6 @@
 
 :notebook:  &nbsp;I’m currently working towards my Bachelor of Information Technology (Programming) and Bachelor of Design (Digital Technologies).
 
-🏫 I also teach web development, introductory programming, and WordPress customisation at Diploma level.
+🏫 I also teach web development, introductory programming, and WordPress customisation at Diploma and Associate Degree levels.
 
 ⚡ Fun fact: I own 35 pairs of Dr Martens.
