@@ -2,13 +2,11 @@
 
 🌐 &nbsp;I have a strong background in web development, primarily front-end but enjoy dabbling in full-stack.
 
-:clock10: I spent the first chunk of my career in agency environments, designing and building custom CMS themes (first Drupal, then WordPress - so PHP, HTML, CSS/SCSS, vanilla JS, jQuery) and occasionally plugins.
+:computer: I currently work as a front-end engineer in an enterprise environment (working with JavaScript/TypeScript/React/Styled Components).
 
-:computer: I currently work as a front-end software engineer in an enterprise environment (working with JavaScript/TypeScript/React/Styled Components) while continuing to design and build custom WordPress sites on a freelance basis.
-
+:clock10: I spent the first chunk of my career in agency environments, designing and building custom CMS themes (first Drupal, then WordPress - so PHP, HTML, CSS/SCSS, vanilla JS, jQuery) and occasionally plugins, which I still do sporadically on a freelance basis.
 
 📂 I've organised my work into [projects](https://github.com/doubleedesign?tab=projects&type=classic) so you can more easily find examples of my code relevant to you. I also post WordPress customisation snippets, amongst other miscellaneous code things, as [gists](https://gist.github.com/doubleedesign).
-
 
 ---
 
