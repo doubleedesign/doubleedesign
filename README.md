@@ -1,5 +1,7 @@
 ## 👋 I'm Leesa with a Double-E
 
+
+
 🌐 &nbsp;I have a strong background in web development, primarily front-end but enjoy dabbling in full-stack.
 
 :computer: I currently work as a front-end software engineer in an enterprise environment, working with
