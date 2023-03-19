@@ -59,7 +59,6 @@ For funsies, learning, and/or personal use.
   <img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=Doublee-Events" />
 </a>
 </div>
-<sup>I have also posted a lot of WordPress-related <a href="https://gist.github.com/doubleedesign">gists</a>.</sup>
 
 ### Forks
 
