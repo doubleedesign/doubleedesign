@@ -12,7 +12,7 @@ WordPress - PHP, HTML, CSS/SCSS, vanilla JS, jQuery) and occasionally plugins, w
 a [freelance basis](https://www.doubleedesign.com.au).
 
 📂 In addition to the full repositories shown here, I also post [gists](https://gist.github.com/doubleedesign)
-semi-regularly.
+semi-regularly, some of which are pinned below.
 
 ---
 
