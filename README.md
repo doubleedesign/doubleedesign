@@ -41,6 +41,9 @@ For funsies, learning, and/or personal use.
 <a href="https://github.com/doubleedesign/headless-wp-portfolio-plugin">
   <img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=headless-wp-portfolio-plugin" />
 </a>
+<a href="https://github.com/doubleedesign/headless-wp-portfolio-frontend">
+  <img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=headless-wp-portfolio-frontend" />
+</a> 
 </div>
 
 ### WordPress
