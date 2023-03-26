@@ -11,9 +11,6 @@ JavaScript/TypeScript, React, and Styled Components.
 WordPress - PHP, HTML, CSS/SCSS, vanilla JS, jQuery) and occasionally plugins, which I still do sporadically on
 a [freelance basis](https://www.doubleedesign.com.au).
 
-📂 In addition to the full repositories shown here, I also post [gists](https://gist.github.com/doubleedesign)
-semi-regularly, some of which are pinned below.
-
 ---
 
 ### Published for public consumption
