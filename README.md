@@ -23,6 +23,9 @@ semi-regularly, some of which are pinned below.
     <a href="https://www.github.com/doubleedesign/animate-into-view">
       <img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=animate-into-view" />
     </a>
+    <a href="https://www.github.com/doubleedesign/styled-media-queries">
+      <img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=styled-media-queries" />
+    </a>
     <a href="https://www.github.com/doubleedesign/friends-ipsum">
       <img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=friends-ipsum" />
     </a>
