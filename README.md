@@ -4,12 +4,14 @@
 
 🌐 &nbsp;I have a strong background in web development, primarily front-end but enjoy dabbling in full-stack.
 
-:computer: I currently work as a front-end engineer in an enterprise environment, working with
-JavaScript/TypeScript, React, and Styled Components.
+:computer: I currently work as a front-end softwre engineer in an enterprise environment, working with
+JavaScript/TypeScript, React, and Styled Components on a suite of interconnected, web-based applications.
 
 :clock10: I spent the first chunk of my career in agency environments, designing and building custom CMS themes (mainly
 WordPress - PHP, HTML, CSS/SCSS, vanilla JS, jQuery) and occasionally plugins, which I still do sporadically on
 a [freelance basis](https://www.doubleedesign.com.au).
+
+:rocket: While I am keeping in touch with my WordPress/PHP and design dabbling roots, my current main focus is levelling up as a JavaScript/TypeScript developer across the full stack of an application.
 
 ---
 
