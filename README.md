@@ -11,7 +11,7 @@ JavaScript/TypeScript, React, and Styled Components on a suite of interconnected
 WordPress - PHP, HTML, CSS/SCSS, vanilla JS, jQuery) and occasionally plugins, which I still do sporadically on
 a [freelance basis](https://www.doubleedesign.com.au).
 
-:rocket: While I am keeping in touch with my WordPress/PHP and design dabbling roots (and CSS will probably always be my favourite thing to work with!), my current main focus is adapting those skills and levelling up as a JavaScript/TypeScript developer.
+:rocket: While I am keeping in touch with my WordPress/PHP and design dabbling roots (and CSS will probably always be my favourite thing to work with!), my current main focus is levelling up in JavaScript/TypeScript application development.
 
 ---
 
