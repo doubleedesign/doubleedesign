@@ -4,7 +4,7 @@
 
 🌐 &nbsp;I have a strong background in web development, primarily front-end but enjoy dabbling in full-stack.
 
-:computer: I currently work as a front-end softwre engineer in an enterprise environment, working with
+:computer: I currently work as a front-end software engineer in an enterprise environment, working with
 JavaScript/TypeScript, React, and Styled Components on a suite of interconnected, web-based applications.
 
 :clock10: I spent the first chunk of my career in agency environments, designing and building custom CMS themes (mainly
