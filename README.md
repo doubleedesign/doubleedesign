@@ -14,7 +14,7 @@ a [freelance basis](https://www.doubleedesign.com.au).
 ---
 
 ### Published for public consumption
-<sup>(...outside of GitHub)</sup>
+(...outside of GitHub)
 
 <div>
     <a href="https://www.github.com/doubleedesign/animate-into-view">
