@@ -38,14 +38,14 @@ For funsies, learning, and/or personal use.
 <a href="https://github.com/doubleedesign/music-stats">
   <img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=music-stats" />
 </a>
+<a href="https://github.com/doubleedesign/deakin-ontrack-reloaded">
+  <img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=deakin-ontrack-reloaded" />
+</a>
 <a href="https://github.com/doubleedesign/life-screen">
   <img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=life-screen" />
-</a>
-<a href="https://github.com/doubleedesign/headless-wp-portfolio-plugin">
-  <img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=headless-wp-portfolio-plugin" />
-</a>
-<a href="https://github.com/doubleedesign/headless-wp-portfolio-frontend">
-  <img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=headless-wp-portfolio-frontend" />
+</a> 
+<a href="https://github.com/doubleedesign/yet-another-doublee-portfolio">
+  <img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=yet-another-doublee-portfolio" />
 </a> 
 </div>
 
