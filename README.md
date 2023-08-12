@@ -11,6 +11,8 @@ JavaScript/TypeScript, React, and Styled Components on a suite of interconnected
 WordPress - PHP, HTML, CSS/SCSS, vanilla JS, jQuery) and occasionally plugins, which I still do sporadically on
 a [freelance basis](https://www.doubleedesign.com.au).
 
+:notebook: I'm pretty much a student recreationally at this point, gradually working on second and subsequent Bachelor degrees. I also have teaching experience at Diploma and Associate Degree levels.
+
 ---
 
 ### Published for public consumption
