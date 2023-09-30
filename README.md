@@ -46,9 +46,6 @@ For funsies, learning, and/or personal use.
 <a href="https://github.com/doubleedesign/life-screen">
   <img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=life-screen" />
 </a> 
-<a href="https://github.com/doubleedesign/yet-another-doublee-portfolio">
-  <img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=yet-another-doublee-portfolio" />
-</a> 
 </div>
 
 ### WordPress
@@ -57,17 +54,20 @@ For funsies, learning, and/or personal use.
 <a href="https://github.com/doubleedesign/doublee-dev-starter-kit">
   <img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=doublee-dev-starter-kit" />
 </a>
+<a href="https://github.com/doubleedesign/doublee-dev-starter-kit-react">
+  <img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=doublee-dev-starter-kit-react" />
+</a>
 <a href="https://github.com/doubleedesign/doublee-plugin-framework">
   <img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=doublee-plugin-framework" />
+</a>
+<a href="https://github.com/doubleedesign/Doublee-Breadcrumbs">
+  <img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=Doublee-Breadcrumbs" />
 </a>
 <a href="https://github.com/doubleedesign/Doublee-Maps">
   <img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=Doublee-Maps" />
 </a>
 <a href="https://github.com/doubleedesign/Doublee-Events">
   <img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=Doublee-Events" />
-</a>
-<a href="https://github.com/doubleedesign/Doublee-Breadcrumbs">
-  <img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=Doublee-Breadcrumbs" />
 </a>
 </div>
 
