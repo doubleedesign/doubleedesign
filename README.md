@@ -54,9 +54,7 @@ For funsies, learning, and/or personal use.
 <a href="https://github.com/doubleedesign/doublee-dev-starter-kit">
   <img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=doublee-dev-starter-kit" />
 </a>
-<a href="https://github.com/doubleedesign/doublee-dev-starterkit-react">
-  <img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=doublee-dev-starterkit-react" />
-</a>
+
 <a href="https://github.com/doubleedesign/doublee-plugin-framework">
   <img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=doublee-plugin-framework" />
 </a>
