@@ -80,6 +80,9 @@ Stuff I'm contributing to and/or have extended to meet my needs.
 </a>
 </div>
 <div>
+  <a href="https://github.com/doubleedesign/lifxware">
+    <img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=lifxware" />
+  </a>
   <a href="https://github.com/doubleedesign/random-simple">
       <img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=random-simple" />
     </a>
