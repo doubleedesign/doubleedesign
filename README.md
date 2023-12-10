@@ -4,14 +4,13 @@
 
 🌐 &nbsp;I have a strong background in web development, primarily front-end but enjoy dabbling in full-stack.
 
-:computer: I currently work as a front-end software engineer in an enterprise environment, working with
-JavaScript/TypeScript, React, and Styled Components.
+:computer: I currently work as a front-end software engineer at [Atlassian](https://www.atlassian.com/company/careers), working in the JavaScript/TypeScript, React, Redux, etc ecosystem. 
 
 :clock10: I spent the first chunk of my career in agency environments, designing and building custom CMS themes (mainly
 WordPress - PHP, HTML, CSS/SCSS, vanilla JS, jQuery) and occasionally plugins, which I still do sporadically on
 a [freelance basis](https://www.doubleedesign.com.au).
 
-:notebook: I'm pretty much a student recreationally at this point, gradually working on second and subsequent Bachelor degrees. I also have teaching experience at Diploma and Associate Degree levels.
+:notebook: I'm pretty much a student recreationally at this point, very gradually working on second and subsequent Bachelor degrees. I also have teaching experience at Diploma and Associate Degree levels.
 
 ---
 
