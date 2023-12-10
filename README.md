@@ -35,17 +35,20 @@ a [freelance basis](https://www.doubleedesign.com.au).
 
 ### Personal Projects
 
-For funsies, learning, and/or personal use.
+For funsies, learning, and/or personal use. These are all pretty early WIPs.
 <div>
 <a href="https://github.com/doubleedesign/music-stats">
   <img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=music-stats" />
 </a>
-<a href="https://github.com/doubleedesign/deakin-ontrack-reloaded">
-  <img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=deakin-ontrack-reloaded" />
-</a>
 <a href="https://github.com/doubleedesign/life-screen">
   <img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=life-screen" />
 </a> 
+<a href="https://github.com/doubleedesign/doublee-component-library">
+    <img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=doublee-component-library"/>
+</a>
+<a href="https://github.com/doubleedesign/streamdeck-plugin-lifx">
+    <img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=streamdeck-plugin-lifx"/>
+</a>
 </div>
 
 ### WordPress
