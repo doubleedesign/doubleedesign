@@ -27,6 +27,9 @@ a [freelance basis](https://www.doubleedesign.com.au).
     <a href="https://www.github.com/doubleedesign/type-checker">
       <img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=type-checker" />
     </a>
+    <a href="https://www.github.com/doubleedesign/generate-vue-cli">
+      <img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=generate-vue-cli" />
+    </a>
     <a href="https://www.github.com/doubleedesign/friends-ipsum">
       <img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=friends-ipsum" />
     </a>
