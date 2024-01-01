@@ -56,11 +56,14 @@ For funsies, learning, and/or personal use. These are all pretty early WIPs.
 ### WordPress
 
 <div>
-<a href="https://github.com/doubleedesign/doublee-dev-starter-kit">
-  <img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=doublee-dev-starter-kit" />
+<a href="https://github.com/doubleedesign/doublee-theme-starter-kit-classic">
+  <img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=doublee-theme-starter-kit-classic" />
 </a>
 <a href="https://github.com/doubleedesign/doublee-plugin-framework">
   <img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=doublee-plugin-framework" />
+</a>
+<a href="https://github.com/doubleedesign/doublee-theme-starter-kit-blocks">
+  <img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=doublee-theme-starter-kit-blocks" />
 </a>
 <a href="https://github.com/doubleedesign/Doublee-Breadcrumbs">
   <img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=Doublee-Breadcrumbs" />
