@@ -45,9 +45,6 @@ For funsies, learning, and/or personal use. These are all pretty early WIPs.
 <a href="https://github.com/doubleedesign/life-screen">
   <img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=life-screen" />
 </a> 
-<a href="https://github.com/doubleedesign/doublee-component-library">
-    <img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=doublee-component-library"/>
-</a>
 <a href="https://github.com/doubleedesign/streamdeck-plugin-lifx">
     <img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=streamdeck-plugin-lifx"/>
 </a>
