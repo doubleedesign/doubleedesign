@@ -39,9 +39,6 @@ a [freelance basis](https://www.doubleedesign.com.au).
 
 For funsies, learning, and/or personal use. These are all pretty early WIPs.
 <div>
-<a href="https://github.com/doubleedesign/music-stats">
-  <img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=music-stats" />
-</a>
 <a href="https://github.com/doubleedesign/life-screen">
   <img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=life-screen" />
 </a> 
