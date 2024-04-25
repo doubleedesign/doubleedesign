@@ -50,17 +50,20 @@ For funsies, learning, and/or personal use. These are all pretty early WIPs.
 ### WordPress
 
 <div>
-<a href="https://github.com/doubleedesign/doublee-theme-starter-kit-classic">
-  <img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=doublee-theme-starter-kit-classic" />
+<a href="https://github.com/doubleedesign/doublee-wordpress-starterkit">
+    <img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=doublee-wordpress-starterkit" />
 </a>
 <a href="https://github.com/doubleedesign/doublee-base-plugin">
   <img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=doublee-base-plugin" />
 </a>
-<a href="https://github.com/doubleedesign/doublee-theme-starter-kit-blocks">
-  <img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=doublee-theme-starter-kit-blocks" />
+<a href="https://github.com/doubleedesign/doublee-theme-starter-kit-classic">
+  <img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=doublee-theme-starter-kit-classic" />
 </a>
-<a href="https://github.com/doubleedesign/Doublee-Breadcrumbs">
-  <img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=Doublee-Breadcrumbs" />
+<a href="https://github.com/doubleedesign/doublee-foundation-theme">
+  <img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=doublee-foundation-theme" />
+</a>
+<a href="https://github.com/doubleedesign/doublee-breadcrumbs">
+  <img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=doublee-breadcrumbs" />
 </a>
 <a href="https://github.com/doubleedesign/Doublee-Maps">
   <img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=Doublee-Maps" />
