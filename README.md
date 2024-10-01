@@ -2,9 +2,9 @@
 
 
 
-🌐 &nbsp;I have a strong background in web development, primarily front-end but enjoy dabbling in full-stack.
+🌐&nbsp;I have a strong background in web development, primarily front-end but enjoy dabbling in full-stack.
 
-:computer: I currently work as a front-end software engineer at [Atlassian](https://www.atlassian.com/company/careers), working in the JavaScript/TypeScript, React, GraphQL, Redux, etc ecosystem. 
+:computer: I currently work as a front-end software engineer at [Atlassian](https://www.atlassian.com/company/careers), working with JavaScript/TypeScript, React, GraphQL, etc.
 
 :clock10: I spent the first chunk of my career in agency environments, designing and building custom CMS themes (mainly
 WordPress - PHP, HTML, CSS/SCSS, vanilla JS, jQuery) and occasionally plugins, which I still do sporadically on
