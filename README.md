@@ -56,12 +56,6 @@ For funsies, learning, and/or personal use. These are all pretty early WIPs.
 <a href="https://github.com/doubleedesign/doublee-base-plugin">
   <img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=doublee-base-plugin" />
 </a>
-<a href="https://github.com/doubleedesign/doublee-theme-starter-kit-classic">
-  <img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=doublee-theme-starter-kit-classic" />
-</a>
-<a href="https://github.com/doubleedesign/doublee-foundation-theme">
-  <img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=doublee-foundation-theme" />
-</a>
 <a href="https://github.com/doubleedesign/doublee-breadcrumbs">
   <img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=doublee-breadcrumbs" />
 </a>
