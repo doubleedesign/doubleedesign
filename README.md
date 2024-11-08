@@ -10,8 +10,6 @@
 WordPress - PHP, HTML, CSS/SCSS, vanilla JS, jQuery) and occasionally plugins, which I still do sporadically on
 a [freelance basis](https://www.doubleedesign.com.au).
 
-:notebook: I'm pretty much a student recreationally at this point, very gradually working on my third and fourth Bachelor degrees. I also have teaching experience at Diploma and Associate Degree levels.
-
 ---
 
 ### Published for public consumption
@@ -37,14 +35,22 @@ a [freelance basis](https://www.doubleedesign.com.au).
 
 ### Personal Projects
 
-For funsies, learning, and/or personal use. These are all pretty early WIPs.
+For funsies, learning, and/or personal use. These are all pretty scrappy, early WIPs.
 <div>
-<a href="https://github.com/doubleedesign/life-screen">
-  <img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=life-screen" />
-</a> 
-<a href="https://github.com/doubleedesign/streamdeck-plugin-lifx">
-    <img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=streamdeck-plugin-lifx"/>
-</a>
+    <a href="https://github.com/doubleedesign/fey-factor">
+        <img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=fey-factor" />
+    </a> 
+    <a href="https://github.com/doubleedesign/nuxt-markdown-portfolio">
+        <img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=nuxt-markdown-portfolio" />
+    </a>
+</div>
+<div>
+    <a href="https://github.com/doubleedesign/life-screen">
+      <img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=life-screen" />
+    </a> 
+    <a href="https://github.com/doubleedesign/streamdeck-plugin-lifx">
+        <img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=streamdeck-plugin-lifx"/>
+    </a>
 </div>
 
 ### WordPress
@@ -58,12 +64,6 @@ For funsies, learning, and/or personal use. These are all pretty early WIPs.
 </a>
 <a href="https://github.com/doubleedesign/doublee-breadcrumbs">
   <img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=doublee-breadcrumbs" />
-</a>
-<a href="https://github.com/doubleedesign/Doublee-Maps">
-  <img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=Doublee-Maps" />
-</a>
-<a href="https://github.com/doubleedesign/Doublee-Events">
-  <img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=Doublee-Events" />
 </a>
 </div>
 
