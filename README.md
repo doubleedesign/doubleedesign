@@ -10,6 +10,8 @@
 WordPress - PHP, HTML, CSS/SCSS, vanilla JS, jQuery) and occasionally plugins, which I still do sporadically on
 a [freelance basis](https://www.doubleedesign.com.au).
 
+👩‍💻I also code a lot of miscellaneous stuff for fun, some of which you can check out here if you are so inclined. 
+
 ---
 
 ### Published for public consumption
