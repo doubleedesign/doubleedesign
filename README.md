@@ -38,10 +38,10 @@ a [freelance basis](https://www.doubleedesign.com.au).
 For funsies, learning, and/or personal use. These are all pretty scrappy, early WIPs.
 <div>
     <a href="https://github.com/doubleedesign/fey-factor">
-        <img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=fey-factor" />
+        <img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=fey-factor&v=2" />
     </a> 
     <a href="https://github.com/doubleedesign/nuxt-markdown-portfolio">
-        <img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=nuxt-markdown-portfolio" />
+        <img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=nuxt-markdown-portfolio&v=2" />
     </a>
 </div>
 <div>
@@ -82,7 +82,4 @@ Stuff I'm contributing to and/or have extended to meet my needs.
   <a href="https://github.com/doubleedesign/lifxware">
     <img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=lifxware" />
   </a>
-  <a href="https://github.com/doubleedesign/random-simple">
-      <img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=random-simple" />
-    </a>
 </div>
