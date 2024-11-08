@@ -44,14 +44,6 @@ For funsies, learning, and/or personal use. These are all pretty scrappy, early 
         <img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=nuxt-markdown-portfolio&v=2" />
     </a>
 </div>
-<div>
-    <a href="https://github.com/doubleedesign/life-screen">
-      <img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=life-screen" />
-    </a> 
-    <a href="https://github.com/doubleedesign/streamdeck-plugin-lifx">
-        <img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=streamdeck-plugin-lifx"/>
-    </a>
-</div>
 
 ### WordPress
 
