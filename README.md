@@ -1,7 +1,5 @@
 ## 👋 I'm Leesa with a Double-E
 
-
-
 🌐&nbsp;I have a strong background in web development, primarily front-end but enjoy dabbling in full-stack.
 
 :computer: I currently work as a front-end software engineer at [Atlassian](https://www.atlassian.com/company/careers), working with JavaScript/TypeScript, React, GraphQL, etc.
@@ -77,3 +75,18 @@ Stuff I'm contributing to and/or have extended to meet my needs.
     <img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=lifxware" />
   </a>
 </div>
+
+---
+### Sponsoring 
+
+<a href="https://opencollective.com/vuejs" title="VueJS"><img width="35" src="https://images.opencollective.com/vuejs/5447764/logo.png"/></a>
+<a href="https://opencollective.com/vue3-sfc-loader" title="Vue SFC Loader"><img width="35" src="https://images.opencollective.com/vue3-sfc-loader/logo.png" alt=""></a>
+<a href="https://opencollective.com/storybook" title="Storybook"><img width="35" src="https://images.opencollective.com/storybook/1a8ec03/logo.png" alt=""></a>
+<a href="https://opencollective.com/styled-components" title="styled-components"><img width="35" src="https://images.opencollective.com/styled-components/dedfe2f/logo.png" alt=""/></a>
+<a href="https://opencollective.com/rollup" title="Rollup"><img width="35" src="https://images.opencollective.com/rollup/cdfa4d0/logo.png"></a>
+<a href="https://github.com/gulpjs" title="GulpJS"><img src="https://avatars.githubusercontent.com/u/6200624?s=70&amp;v=4" width="35" height="35" alt="@gulpjs"></a>
+<a href="https://github.com/arminbro/generate-react-cli" title="generate-react-cli"><img src="https://avatars.githubusercontent.com/u/3334599?s=70&amp;v=4" width="35" height="35" alt="@arminbro"></a>
+<a href="https://github.com/eslint" title="eslint"><img src="https://avatars.githubusercontent.com/u/6019716?s=70&amp;v=4" width="35" height="35" alt="@eslint"></a>
+<a href="https://github.com/Igorkowalski94/eslint-plugin-project-structure" title="eslint-plugin-project-structure"><img src="https://avatars.githubusercontent.com/u/49439801?s=70&amp;v=4" width="35" height="35" alt="@Igorkowalski94"></a>
+<a href="https://github.com/vitejs" title="vitejs"><img src="https://avatars.githubusercontent.com/u/65625612?s=70&amp;v=4" width="35" height="35" alt="@vitejs"></a>
+<a href="https://github.com/ThePHPF" title="The PHP Foundation"><img src="https://avatars.githubusercontent.com/u/94920063?s=70&amp;v=4" width="35" height="35" alt="@ThePHPF"></a>
