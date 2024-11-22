@@ -77,7 +77,7 @@ Stuff I'm contributing to and/or have extended to meet my needs.
 </div>
 
 ---
-### Sponsoring 
+### Projects I sponsor on GitHub and Open Collective
 
 <a href="https://opencollective.com/vuejs" title="VueJS"><img width="35" src="https://images.opencollective.com/vuejs/5447764/logo.png"/></a>
 <a href="https://opencollective.com/vue3-sfc-loader" title="Vue SFC Loader"><img width="35" src="https://images.opencollective.com/vue3-sfc-loader/logo.png" alt=""></a>
