@@ -81,7 +81,9 @@ Stuff I'm contributing to and/or have extended to meet my needs.
 
 <a href="https://opencollective.com/vuejs" title="VueJS"><img width="35" src="https://images.opencollective.com/vuejs/5447764/logo.png"/></a>
 <a href="https://opencollective.com/vue3-sfc-loader" title="Vue SFC Loader"><img width="35" src="https://images.opencollective.com/vue3-sfc-loader/logo.png" alt=""></a>
+<a href="https://github.com/nuxt" title="Nuxt"><img width="35" src="https://avatars.githubusercontent.com/u/23360933?s=70&v=4" alt=""/></a>
 <a href="https://opencollective.com/storybook" title="Storybook"><img width="35" src="https://images.opencollective.com/storybook/1a8ec03/logo.png" alt=""></a>
+<a href="https://opencollective.com/sass" title="Sass Open Source Foundation"><img width="35" src="https://images.opencollective.com/sass/5087a54/logo.png" alt=""/></a>
 <a href="https://opencollective.com/styled-components" title="styled-components"><img width="35" src="https://images.opencollective.com/styled-components/dedfe2f/logo.png" alt=""/></a>
 <a href="https://opencollective.com/rollup" title="Rollup"><img width="35" src="https://images.opencollective.com/rollup/cdfa4d0/logo.png"></a>
 <a href="https://github.com/gulpjs" title="GulpJS"><img src="https://avatars.githubusercontent.com/u/6200624?s=70&amp;v=4" width="35" height="35" alt="@gulpjs"></a>
