@@ -74,11 +74,9 @@ Stuff I'm contributing to and/or have extended to meet my needs.
     <a href="https://github.com/doubleedesign/baguetteBox.js">
         <img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=baguetteBox.js" />
     </a>
-</div>
-<div>
-  <a href="https://github.com/doubleedesign/lifxware">
+    <a href="https://github.com/doubleedesign/lifxware">
     <img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=lifxware" />
-  </a>
+    </a>
 </div>
 
 ---
