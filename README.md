@@ -48,9 +48,6 @@ For funsies, learning, and/or personal use. These are all pretty scrappy, early 
 ### WordPress
 
 <div>
-<a href="https://github.com/doubleedesign/doublee-wordpress-starterkit">
-    <img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=doublee-wordpress-starterkit" />
-</a>
 <a href="https://github.com/doubleedesign/doublee-base-plugin">
   <img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=doublee-base-plugin" />
 </a>
