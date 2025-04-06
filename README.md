@@ -19,6 +19,9 @@ a [freelance basis](https://www.doubleedesign.com.au).
     <a href="https://www.github.com/doubleedesign/animate-into-view">
       <img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=animate-into-view" />
     </a>
+    <a href="https://github.com/doubleedesign/comet-components-core">
+        <img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=comet-components-core" />
+    </a>
     <a href="https://www.github.com/doubleedesign/styled-media-queries">
       <img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=styled-media-queries" />
     </a>
@@ -40,8 +43,8 @@ For funsies, learning, and/or personal use. These are all pretty scrappy, early 
     <a href="https://github.com/doubleedesign/fey-factor">
         <img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=fey-factor&v=2" />
     </a> 
-    <a href="https://github.com/doubleedesign/nuxt-markdown-portfolio">
-        <img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=nuxt-markdown-portfolio&v=2" />
+    <a href="https://github.com/doubleedesign/comet-components">
+        <img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=comet-components&v=2" />
     </a>
 </div>
 
