@@ -84,7 +84,6 @@ Stuff I'm contributing to and/or have extended to meet my needs.
 
 <a href="https://opencollective.com/vuejs" title="VueJS"><img width="35" src="https://images.opencollective.com/vuejs/5447764/logo.png"/></a>
 <a href="https://opencollective.com/vue3-sfc-loader" title="Vue SFC Loader"><img width="35" src="https://images.opencollective.com/vue3-sfc-loader/logo.png" alt=""></a>
-<a href="https://github.com/nuxt" title="Nuxt"><img width="35" src="https://avatars.githubusercontent.com/u/23360933?s=70&v=4" alt=""/></a>
 <a href="https://opencollective.com/storybook" title="Storybook"><img width="35" src="https://images.opencollective.com/storybook/1a8ec03/logo.png" alt=""></a>
 <a href="https://opencollective.com/sass" title="Sass Open Source Foundation"><img width="35" src="https://images.opencollective.com/sass/5087a54/logo.png" alt=""/></a>
 <a href="https://opencollective.com/styled-components" title="styled-components"><img width="35" src="https://images.opencollective.com/styled-components/dedfe2f/logo.png" alt=""/></a>
@@ -92,6 +91,7 @@ Stuff I'm contributing to and/or have extended to meet my needs.
 <a href="https://github.com/gulpjs" title="GulpJS"><img src="https://avatars.githubusercontent.com/u/6200624?s=70&amp;v=4" width="35" height="35" alt="@gulpjs"></a>
 <a href="https://github.com/arminbro/generate-react-cli" title="generate-react-cli"><img src="https://avatars.githubusercontent.com/u/3334599?s=70&amp;v=4" width="35" height="35" alt="@arminbro"></a>
 <a href="https://github.com/eslint" title="eslint"><img src="https://avatars.githubusercontent.com/u/6019716?s=70&amp;v=4" width="35" height="35" alt="@eslint"></a>
-<a href="https://github.com/Igorkowalski94/eslint-plugin-project-structure" title="eslint-plugin-project-structure"><img src="https://avatars.githubusercontent.com/u/49439801?s=70&amp;v=4" width="35" height="35" alt="@Igorkowalski94"></a>
-<a href="https://github.com/vitejs" title="vitejs"><img src="https://avatars.githubusercontent.com/u/65625612?s=70&amp;v=4" width="35" height="35" alt="@vitejs"></a>
 <a href="https://github.com/ThePHPF" title="The PHP Foundation"><img src="https://avatars.githubusercontent.com/u/94920063?s=70&amp;v=4" width="35" height="35" alt="@ThePHPF"></a>
+<a href="https://github.com/composer"><img src="https://avatars.githubusercontent.com/u/837015?s=70&amp;v=4" width="35" height="35" alt="@composer"></a>
+<a href="https://github.com/sebastianbergmann/phpunit"><img src="https://avatars.githubusercontent.com/u/25218?s=70&amp;v=4" width="35" height="35" alt="@sebastianbergmann"></a>
+<a href="https://github.com/pestphp/pest"><img alt="Owner avatar" src="https://avatars.githubusercontent.com/u/62078253?s=48&amp;v=4" width="35" height="35"></a>
