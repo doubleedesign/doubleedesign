@@ -92,7 +92,7 @@ Stuff I'm contributing to and/or have extended to meet my needs.
 <a href="https://github.com/arminbro/generate-react-cli" title="generate-react-cli"><img src="https://avatars.githubusercontent.com/u/3334599?s=70&amp;v=4" width="35" height="35" alt="@arminbro"></a>
 <a href="https://github.com/eslint" title="eslint"><img src="https://avatars.githubusercontent.com/u/6019716?s=70&amp;v=4" width="35" height="35" alt="@eslint"></a>
 <a href="https://github.com/ThePHPF" title="The PHP Foundation"><img src="https://avatars.githubusercontent.com/u/94920063?s=70&amp;v=4" width="35" height="35" alt="@ThePHPF"></a>
-<a href="https://github.com/composer"><img src="https://avatars.githubusercontent.com/u/837015?s=70&amp;v=4" width="35" height="35" alt="@composer"></a>
-<a href="https://github.com/sebastianbergmann/phpunit"><img src="https://avatars.githubusercontent.com/u/25218?s=70&amp;v=4" width="35" height="35" alt="@sebastianbergmann"></a>
-<a href="https://github.com/pestphp/pest"><img alt="Pest PHP" src="https://avatars.githubusercontent.com/u/62078253?s=48&amp;v=4" width="35" height="35"></a>
-<a href="https://opencollective.com/classicpress"><img alt="ClassicPress" src="https://avatars.githubusercontent.com/u/42489192?s=200&v=4" width="35" height="35"></a>
+<a href="https://github.com/composer" title="Composer"><img src="https://avatars.githubusercontent.com/u/837015?s=70&amp;v=4" width="35" height="35" alt="@composer"></a>
+<a href="https://github.com/sebastianbergmann/phpunit" title="PHPUnit"><img src="https://avatars.githubusercontent.com/u/25218?s=70&amp;v=4" width="35" height="35" alt="@sebastianbergmann"></a>
+<a href="https://github.com/pestphp/pest" title="Pest"><img alt="Pest PHP" src="https://avatars.githubusercontent.com/u/62078253?s=48&amp;v=4" width="35" height="35"></a>
+<a href="https://opencollective.com/classicpress" title="ClassicPress"><img alt="ClassicPress" src="https://avatars.githubusercontent.com/u/42489192?s=200&v=4" width="35" height="35"></a>
