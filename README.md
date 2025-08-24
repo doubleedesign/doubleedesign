@@ -51,11 +51,17 @@ For funsies, learning, and/or personal use. These are all pretty scrappy, early 
 ### WordPress
 
 <div>
-<a href="https://github.com/doubleedesign/doublee-base-plugin">
-  <img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=doublee-base-plugin" />
+<a href="https://github.com/doubleedesign/acf-dynamic-preview">
+  <img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=acf-dynamic-preview" />
 </a>
 <a href="https://github.com/doubleedesign/doublee-breadcrumbs">
   <img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=doublee-breadcrumbs" />
+</a>
+<a href="https://github.com/doubleedesign/simple-document-portal">
+  <img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=simple-document-portal" />
+</a>
+<a href="https://github.com/doubleedesign/doublee-base-plugin">
+  <img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=doublee-base-plugin" />
 </a>
 </div>
 
