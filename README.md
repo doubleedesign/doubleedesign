@@ -48,7 +48,7 @@ For funsies, learning, and/or personal use. These are all pretty scrappy, early 
     </a>
 </div>
 
-### WordPress
+### WordPress & ClassicPress
 
 <div>
 <a href="https://github.com/doubleedesign/acf-dynamic-preview">
@@ -62,6 +62,9 @@ For funsies, learning, and/or personal use. These are all pretty scrappy, early 
 </a>
 <a href="https://github.com/doubleedesign/doublee-base-plugin">
   <img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=doublee-base-plugin" />
+</a>
+<a href="https://github.com/doubleedesign/wp-plugin-template">
+  <img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=wp-plugin-template" />
 </a>
 </div>
 
