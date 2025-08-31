@@ -27,14 +27,14 @@ a [freelance basis](https://www.doubleedesign.com.au).
 <a href="https://github.com/doubleedesign/doublee-base-plugin">
   <img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=doublee-base-plugin" />
 </a>
+<a href="https://github.com/doubleedesign/classicpress-plugin-dependencies">
+  <img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=classicpress-plugin-dependencies" />
+</a>
 <a href="https://github.com/doubleedesign/classicpress-plugin-compatibility-override">
   <img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=classicpress-plugin-compatibility-override" />
 </a>
 <a href="https://github.com/doubleedesign/doublee-classicpress-polyfills">
   <img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=doublee-classicpress-polyfills" />
-</a>
-<a href="https://github.com/doubleedesign/classicpress-plugin-dependencies">
-  <img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=classicpress-plugin-dependencies" />
 </a>
 <a href="https://github.com/doubleedesign/cult-classic">
   <img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=cult-classic" />
