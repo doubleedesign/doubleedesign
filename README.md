@@ -30,6 +30,9 @@ a [freelance basis](https://www.doubleedesign.com.au).
 <a href="https://github.com/doubleedesign/doublee-breadcrumbs">
   <img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=doublee-breadcrumbs" />
 </a>
+  <a href="https://github.com/doubleedesign/doublee-ninja-markup">
+    <img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=doublee-ninja-markup" />
+  </a>
   <a href="https://github.com/doubleedesign/acf-dynamic-preview">
   <img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=acf-dynamic-preview" />
 </a>
