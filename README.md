@@ -12,7 +12,7 @@ a [freelance basis](https://www.doubleedesign.com.au).
 
 ---
 
-### WordPress & ClassicPress
+### WordPress
 
 <div>
 <a href="https://github.com/doubleedesign/acf-advanced-image-field">
@@ -33,24 +33,12 @@ a [freelance basis](https://www.doubleedesign.com.au).
   <a href="https://github.com/doubleedesign/doublee-ninja-markup">
     <img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=doublee-ninja-markup" />
   </a>
-  <a href="https://github.com/doubleedesign/acf-dynamic-preview">
-  <img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=acf-dynamic-preview" />
 </a>
-<a href="https://github.com/doubleedesign/classicpress-plugin-dependencies">
-  <img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=classicpress-plugin-dependencies" />
-</a>
-<a href="https://github.com/doubleedesign/doublee-classicpress-polyfills">
-  <img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=doublee-classicpress-polyfills" />
-</a>
-<a href="https://github.com/doubleedesign/classicpress-plugin-compatibility-override">
-  <img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=classicpress-plugin-compatibility-override" />
+  <a href="https://github.com/doubleedesign/wordpress-canvas">
+  <img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=wordpress-canvas" />
 </a>
 <a href="https://github.com/doubleedesign/wp-plugin-template">
   <img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=wp-plugin-template" />
-</a>
-  </a>
-<a href="https://github.com/doubleedesign/vanilla-playground">
-  <img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=vanilla-playground" />
 </a>
 </div>
 
