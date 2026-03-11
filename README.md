@@ -6,7 +6,7 @@
 
 :clock10: I spent the first chunk of my career in agency environments, designing and building custom CMS themes and plugins (mainly
 WordPress/ClassicPress - PHP, HTML, CSS/SCSS, vanilla JS, jQuery) which I still do sporadically on
-a [freelance basis](https://www.doubleedesign.com.au). I also occasionally do print design work, and particularly enjoy large publications - where I apply my coding skills to Adobe Extendscript to for efficiency and accuracy.
+a [freelance basis](https://www.doubleedesign.com.au). I also occasionally do print design work, and particularly enjoy large publications - where I apply my coding skills to handle tasks like repeated layouts with Adobe ExtendScript in InDesign.
 
 👩‍💻I also code a lot of miscellaneous stuff for fun, some of which you can check out here if you are so inclined. 
 
