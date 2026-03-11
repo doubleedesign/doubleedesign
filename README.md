@@ -40,6 +40,9 @@ a [freelance basis](https://www.doubleedesign.com.au).
 <a href="https://github.com/doubleedesign/wp-plugin-template">
   <img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=wp-plugin-template" />
 </a>
+<a href="https://github.com/doubleedesign/PowerPress">
+  <img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=PowerPress" />
+</a>
 </div>
 
 ### Published on NPM
