@@ -2,10 +2,10 @@
 
 🌐&nbsp;I have a strong background in web development, primarily front-end but enjoy dabbling in full-stack.
 
-:computer: Until recently, I worked as front-end software engineer at [Atlassian](https://www.atlassian.com/company/careers), working with JavaScript/TypeScript, React, GraphQL, etc.
+:computer: Until recently, I worked as front-end software engineer at [Atlassian](https://www.atlassian.com/company/careers), working with JavaScript/TypeScript, React, GraphQL, etc. Prior to that I did similar work on an internal application at National Australia Bank.
 
 :clock10: I spent the first chunk of my career in agency environments, designing and building custom CMS themes and plugins (mainly
-WordPress/ClassicPress - PHP, HTML, CSS/SCSS, vanilla JS, jQuery) which I still do sporadically on
+WordPress - PHP, HTML, CSS/SCSS, vanilla JS, jQuery) which I still do sporadically on
 a [freelance basis](https://www.doubleedesign.com.au). I also occasionally do print design work, and particularly enjoy large publications - where I apply my coding skills to handle tasks like repeated layouts with Adobe ExtendScript in InDesign.
 
 👩‍💻I also code a lot of miscellaneous stuff for fun, some of which you can check out here if you are so inclined. 
