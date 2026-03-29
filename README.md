@@ -48,6 +48,9 @@ a [freelance basis](https://www.doubleedesign.com.au). I also occasionally do pr
 ### Published on NPM
 
 <div>
+    <a href="https://github.com/doubleedesign/storybook-addon-accessibility-tree">
+      <img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=storybook-addon-accessibility-tree&v=2" />
+    </a>
     <a href="https://www.github.com/doubleedesign/animate-into-view">
       <img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=animate-into-view" />
     </a>
