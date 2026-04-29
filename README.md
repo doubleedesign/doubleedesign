@@ -67,13 +67,16 @@ a [freelance basis](https://www.doubleedesign.com.au). I also occasionally do pr
 
 ### Personal Projects
 
-For funsies, learning, and/or personal use. These are all pretty scrappy, early WIPs.
+For funsies, learning, and/or personal use.
 <div>
     <a href="https://github.com/doubleedesign/fey-factor">
         <img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=fey-factor&v=2" />
     </a> 
     <a href="https://github.com/doubleedesign/comet-components">
         <img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=comet-components&v=3" />
+    </a>
+  <a href="https://github.com/doubleedesign/font-combo-tester">
+        <img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=font-combo-tester&v=1" />
     </a>
     <a href="https://www.github.com/doubleedesign/friends-ipsum">
       <img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=friends-ipsum" />
