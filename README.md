@@ -2,9 +2,9 @@
 
 🌐&nbsp;I have a strong background in web development, primarily front-end but enjoy dabbling in full-stack.
 
-:computer: I currently work on the [Up](https://up.com.au) banking app at [Ferocia](https://ferocia.com.au) (part of Bendigo Bank). Prior to that, I worked as a web front-end software engineer building customisable navigation across a suite of applications at [Atlassian](https://www.atlassian.com/company/careers) and on an internal banker portal at [National Australia Bank](https://www.nab.com.au/about-us/careers/business-areas/technology-digital).
+:computer: I currently work as a full-stack mobile software engineer on the [Up](https://up.com.au) banking app at [Ferocia](https://ferocia.com.au) (part of [Bendigo Bank](https://www.bendigobank.com.au/about-us/who-we-are/)). Prior to that, I worked as a web front-end software engineer building customisable navigation across a suite of applications at [Atlassian](https://www.atlassian.com/company/careers) and on an internal banker portal at [National Australia Bank](https://www.nab.com.au/about-us/careers/business-areas/technology-digital).
 
-:clock10: I spent the first chunk of my career in agencies, designing and building custom CMS themes and plugins - which I still do sporadically on a [freelance basis](https://www.doubleedesign.com.au). I also occasionally do print graphic design work, particularly publications, where I apply my coding skills to handle tasks like repeated layouts with Adobe ExtendScript in InDesign.
+:clock10: I spent the first chunk of my career in agencies, designing and building custom CMS themes and plugins - which I still do sporadically on a [freelance basis](https://www.doubleedesign.com.au). I also occasionally do print graphic design work, particularly publications, where I also apply my coding skills to handle tasks like repeated layouts with Adobe ExtendScript in InDesign.
 
 👩‍💻I also code a lot of miscellaneous stuff for fun, some of which you can check out here if you are so inclined. 
 
