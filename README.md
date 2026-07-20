@@ -15,16 +15,16 @@
 For funsies, learning, and/or personal use.
 <div>
 	<a href="https://github.com/doubleedesign/fey-factor">
-		<img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=fey-factor&v=2" />
+		<img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=fey-factor&v=3" />
 	</a> 
 	<a href="https://github.com/doubleedesign/legatobase">
-		<img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=legatobase" />
+		<img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=legatobase&v=2" />
 	</a>
 	<a href="https://github.com/doubleedesign/font-combo-tester">
-		<img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=font-combo-tester&v=1" />
+		<img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=font-combo-tester&v=2" />
 	</a>
 	<a href="https://www.github.com/doubleedesign/friends-ipsum">
-		<img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=friends-ipsum" />
+		<img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=friends-ipsum&v=2" />
 	</a>
 </div>
 
@@ -32,10 +32,10 @@ For funsies, learning, and/or personal use.
 
 <div>
   <a href="https://github.com/doubleedesign/storybook-addon-accessibility-tree">
-    <img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=storybook-addon-accessibility-tree&v=3" />
+    <img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=storybook-addon-accessibility-tree&v=4" />
   </a>
   <a href="https://github.com/doubleedesign/storybook-assorted-decorators">
-    <img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=storybook-assorted-decorators" />
+    <img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=storybook-assorted-decorators&v=2" />
   </a>
 </div>
 
@@ -43,13 +43,13 @@ For funsies, learning, and/or personal use.
 
 <div>
   <a href="https://github.com/doubleedesign/comet-components">
-    <img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=comet-components&v=3" />
+    <img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=comet-components&v=4" />
   </a>
   <a href="https://github.com/doubleedesign/vanilla-toppings">
-    <img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=vanilla-toppings" />
+    <img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=vanilla-toppings&v=2" />
   </a>
   <a href="https://www.github.com/doubleedesign/animate-into-view">
-    <img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=animate-into-view" />
+    <img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=animate-into-view&v=2" />
   </a>
 </div>
 
@@ -57,33 +57,33 @@ For funsies, learning, and/or personal use.
 
 <div>
 <a href="https://github.com/doubleedesign/comet-gutenberg-controls">
-	<img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=comet-gutenberg-controls" />
+	<img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=comet-gutenberg-controls&v=2" />
 </a>
 <a href="https://github.com/doubleedesign/doublee-breadcrumbs">
-	<img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=doublee-breadcrumbs" />
+	<img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=doublee-breadcrumbs&v=2" />
 </a>
 <a href="https://github.com/doubleedesign/acf-advanced-image-field">
-  <img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=acf-advanced-image-field" />
+  <img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=acf-advanced-image-field&v=2" />
 </a>
 <a href="https://github.com/doubleedesign/simple-document-portal">
-  <img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=simple-document-portal" />
+  <img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=simple-document-portal&v=2" />
 </a>
 <a href="https://github.com/doubleedesign/doublee-base-plugin">
-  <img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=doublee-base-plugin" />
+  <img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=doublee-base-plugin&v=2" />
 </a>
 <a href="https://github.com/doubleedesign/doublee-tinymce">
-  <img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=doublee-tinymce" />
+  <img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=doublee-tinymce&v=2" />
 </a>
   <a href="https://github.com/doubleedesign/wordpress-canvas">
-  <img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=wordpress-canvas" />
+  <img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=wordpress-canvas&v=2" />
 </a>
 <a href="https://github.com/doubleedesign/wp-plugin-template">
-  <img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=wp-plugin-template" />
+  <img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=wp-plugin-template&v=2" />
 </a>
 	  <a href="https://github.com/doubleedesign/doublee-ninja-markup">
-    <img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=doublee-ninja-markup" />
+    <img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=doublee-ninja-markup&v=2" />
   </a>
 <a href="https://github.com/doubleedesign/PowerPress">
-  <img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=PowerPress" />
+  <img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=PowerPress&v=2" />
 </a>
 </div>
