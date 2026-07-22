@@ -14,9 +14,7 @@
 
 For funsies, learning, and/or personal use.
 <div>
-	<a href="https://github.com/doubleedesign/fey-factor">
-		<img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=fey-factor&v=3" />
-	</a> 
+<a href="https://github.com/doubleedesign/fey-factor"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=fey-factor&show_owner=false&show_language=true&show_stars=true&show_forks=true&color_mode=dark"> <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=fey-factor&show_owner=false&show_language=true&show_stars=true&show_forks=true&color_mode=light"> <img alt="fey-factor" src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=fey-factor&show_owner=false&show_language=true&show_stars=true&show_forks=true" /> </picture> </a>
 	<a href="https://github.com/doubleedesign/legatobase">
 		<img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=legatobase&v=2" />
 	</a>
