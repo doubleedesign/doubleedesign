@@ -84,6 +84,6 @@ For funsies, learning, and/or personal use.
     <img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=doublee-ninja-markup&v=2" />
   </a>
 <a href="https://github.com/doubleedesign/PowerPress">
-  <img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=PowerPress&v=2" />
+  <img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=PowerPress&v=3" />
 </a>
 </div>
