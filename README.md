@@ -20,6 +20,9 @@ For funsies, learning, and/or personal use.
 	<a href="https://github.com/doubleedesign/legatobase">
 		<img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=legatobase&v=3" />
 	</a>
+	<a href="https://github.com/doubleedesign/PropertyPiles">
+		<img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=PropertyPiles" />
+	</a>
 	<a href="https://github.com/doubleedesign/font-combo-tester">
 		<img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=font-combo-tester&v=3" />
 	</a>
