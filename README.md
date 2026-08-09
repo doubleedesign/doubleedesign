@@ -9,7 +9,7 @@
 👩‍💻I also code a lot of miscellaneous stuff for fun, some of which you can check out here if you are so inclined.
 
 <a href="https://github.com/doubleedesign/github-readme-stats"> 
-	<img alt="My Top Languages from GitHub stats" src="https://github-readme-stats-doubleedesign.vercel.app/api/top-langs/?langs_count=10&heading=My+GitHub+Top+Languages&algorithm=both&layout=donut&v=2" />
+	<img alt="My Top Languages from GitHub stats" src="https://github-readme-stats-doubleedesign.vercel.app/api/top-langs/?langs_count=10&heading=My+GitHub+Top+Languages&algorithm=both&layout=donut&v=3" />
 </a>
 
 ---
