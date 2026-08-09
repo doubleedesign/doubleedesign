@@ -6,7 +6,11 @@
 
 :clock10: I spent the first chunk of my career in agencies, designing and building custom CMS themes and plugins - which I still do sporadically on a [freelance basis](https://www.doubleedesign.com.au). I also occasionally do print graphic design work, particularly publications, where I also apply my coding skills to handle tasks like repeated layouts with Adobe ExtendScript in InDesign.
 
-👩‍💻I also code a lot of miscellaneous stuff for fun, some of which you can check out here if you are so inclined. 
+👩‍💻I also code a lot of miscellaneous stuff for fun, some of which you can check out here if you are so inclined.
+
+<a href="https://github.com/doubleedesign/github-readme-stats"> 
+	<img alt="My Top Languages from GitHub stats" src="https://github-readme-stats-doubleedesign.vercel.app/api/top-langs/?langs_count=10&heading=My+GitHub+Top+Languages&algorithm=both&layout=donut&v=2" />
+</a>
 
 ---
 
