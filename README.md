@@ -27,6 +27,9 @@ For funsies, learning, and/or personal use.
 	<a href="https://github.com/doubleedesign/PropertyPiles">
 		<img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=PropertyPiles" />
 	</a>
+	<a href="https://www.github.com/doubleedesign/github-readme-stats">
+		<img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=github-readme-stats&v=3" />
+	</a>
 	<a href="https://github.com/doubleedesign/font-combo-tester">
 		<img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=font-combo-tester&v=3" />
 	</a>
