@@ -1,6 +1,6 @@
 ## 👋 I'm Leesa with a Double-E
 
-🌐&nbsp;I have a strong background in web development, primarily front-end but enjoy dabbling across the stack and with different languages, from databases and back-end shenanigans to UI design systems.
+🌐&nbsp;I have a strong background in web development - primarily front-end - but enjoy dabbling across the stack and with different languages, from databases and back-end shenanigans to UI design systems.
 
 :computer: I currently work as a full-stack mobile software engineer on the [Up](https://up.com.au) banking app at [Ferocia](https://ferocia.com.au) (part of [Bendigo Bank](https://www.bendigobank.com.au/about-us/who-we-are/)). Prior to that, I worked as a web front-end software engineer building customisable navigation across a suite of applications at [Atlassian](https://www.atlassian.com/company/careers) and on an internal banker portal at [National Australia Bank](https://www.nab.com.au/about-us/careers/business-areas/technology-digital).
 
