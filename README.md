@@ -9,7 +9,7 @@
 👩‍💻I also code a lot of miscellaneous stuff for fun, some of which you can check out here if you are so inclined.
 
 <a href="https://github.com/doubleedesign/github-readme-stats"> 
-	<img alt="My Top Languages from GitHub stats" src="https://github-readme-stats-doubleedesign.vercel.app/api/top-langs/?langs_count=10&heading=My+GitHub+Top+Languages&algorithm=both&layout=donut&v=4" />
+	<img alt="My Top Languages from GitHub stats" src="https://github-readme-stats-doubleedesign.vercel.app/api/top-langs/?langs_count=10&heading=My+GitHub+Top+Languages&algorithm=both&layout=donut&v=6" />
 </a>
 
 ---
@@ -22,7 +22,7 @@ For funsies, learning, and/or personal use.
 		<img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=fey-factor&v=4" />
 	</a>
 	<a href="https://github.com/doubleedesign/legatobase">
-		<img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=legatobase&v=3" />
+		<img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=legatobase&v=5" />
 	</a>
 	<a href="https://github.com/doubleedesign/PropertyPiles">
 		<img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=PropertyPiles" />
@@ -85,7 +85,7 @@ For funsies, learning, and/or personal use.
   <img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=doublee-tinymce&v=3" />
 </a>
   <a href="https://github.com/doubleedesign/wordpress-canvas">
-  <img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=wordpress-canvas&v=3" />
+  <img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=wordpress-canvas&v=5" />
 </a>
 <a href="https://github.com/doubleedesign/wp-plugin-template">
   <img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=wp-plugin-template&v=3" />
@@ -94,6 +94,6 @@ For funsies, learning, and/or personal use.
     <img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=doublee-ninja-markup&v=3" />
   </a>
 <a href="https://github.com/doubleedesign/PowerPress">
-  <img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=PowerPress&v=4" />
+  <img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=PowerPress&v=5" />
 </a>
 </div>
