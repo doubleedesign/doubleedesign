@@ -52,7 +52,7 @@ For funsies, learning, and/or personal use.
     <img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=comet-components&v=5" />
   </a>
   <a href="https://github.com/doubleedesign/vanilla-toppings">
-    <img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=vanilla-toppings&v=3" />
+    <img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=vanilla-toppings&v=4" />
   </a>
   <a href="https://www.github.com/doubleedesign/animate-into-view">
     <img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=animate-into-view&v=3" />
@@ -72,7 +72,7 @@ For funsies, learning, and/or personal use.
   <img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=acf-advanced-image-field&v=3" />
 </a>
 <a href="https://github.com/doubleedesign/simple-document-portal">
-  <img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=simple-document-portal&v=3" />
+  <img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=simple-document-portal&v=4" />
 </a>
 <a href="https://github.com/doubleedesign/doublee-base-plugin">
   <img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=doublee-base-plugin&v=3" />
@@ -81,7 +81,7 @@ For funsies, learning, and/or personal use.
   <img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=doublee-tinymce&v=3" />
 </a>
   <a href="https://github.com/doubleedesign/wordpress-canvas">
-  <img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=wordpress-canvas&v=5" />
+  <img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=wordpress-canvas&v=6" />
 </a>
 <a href="https://github.com/doubleedesign/wp-plugin-template">
   <img src="https://github-readme-stats-doubleedesign.vercel.app/api/pin/?username=doubleedesign&repo=wp-plugin-template&v=3" />
